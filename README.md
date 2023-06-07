@@ -9,7 +9,7 @@ In the following table, replace the instructor's info with your student id, full
 
 |        Student ID          |     Student Full Name      |        SFSU Email          |
 | ---------------------------| ---------------------------| ---------------------------|
-| Write your student id here | Write your full name here  | Write your SFSU email here |
+|        921359982           |        Jeremy Tran         |    jtran43@mail.sfsu.edu   |
 
 
 A random database topic will be assigned by the instructor to all the students. As soon as it is assigned, fill out the following table with your topic´s info.
