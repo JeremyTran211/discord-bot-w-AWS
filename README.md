@@ -16,7 +16,7 @@ A random database topic will be assigned by the instructor to all the students. 
 
 |       Topic Description        |              Date Assigned                 |
 | ------------------------------ | ------------------------------------------ |
-|      Waste Management Topic    |                 6/9/23                     |
+|   Waste Management Industry    |                 6/9/23                     |
 
 
 All the work in this course is divided into two milestones, each of them has several checkpoints. Checkpoints are cumulative work. That's it, all checkpoints 
