@@ -20,7 +20,7 @@ The cover page of your document must contain the title of your project (i.e. Lib
 
 |     Checkpoint #  |    Date Submitted   |
 | ----------------- | ------------------- |
-|    Checkpoint I   |      02/14/2023     |
+|    Checkpoint I   |      06/20/2023     |
 
 ### Table of Contents 
 
