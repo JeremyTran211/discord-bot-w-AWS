@@ -26,8 +26,8 @@ All the work in this course is divided into two milestones, each of them has sev
 | Checkpoints |                      Description                      |          TODO/DONE         |
 | ----------- | ----------------------------------------------------- | -------------------------- |
 |     1       | M1: Product Summary and Database Requirements         |            DONE            |
-|     2       | M1: Database Conceptual Design                        |            DONE           |
-|     3       | M1: Database Architecture                             |            TODO            |
+|     2       | M1: Database Conceptual Design                        |            DONE            |
+|     3       | M1: Database Architecture                             |            DONE            |
 |     4       | M2: User Interface (Bot) Setup                        |            TODO            |
 |     5       | M2: Implementation & Testing                          |            TODO            |
 
