@@ -1,46 +1,30 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/T_pbm5Lu)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11298432&assignment_repo_type=AssignmentRepo)
-# Welcome to CSC675-775 Database Systems
+# Waste Management Discord Bot
 
-***IMPORTANT: it is the responsibility of the student to read-follow all the guidelines and instructions provided in all the README files found in this repository***
+## Project Overview
+The Waste Management Discord Bot is an innovative tool designed to streamline interactions within waste management systems. Hosted on Replit and integrated with Amazon RDS using MySQL, it allows Discord users to interact with the bot using specific commands, facilitating quick access to waste management operations and information.
 
-In the following table, replace the instructor's info with your student id, full name and SFSU email. ***ALL students must do this by June 08 at 8:00 pm. Failure to do so may result in the student being dropped out from the course without further notice. No Exceptions!***
+## Features
+- **Command Interaction**: Engage with the bot through commands like `!GetCategory category1` to obtain data related to waste management.
+- **MySQL Database Integration**: Utilizes Amazon RDS for a robust and scalable backend storage solution.
+- **Automated Responses**: Instantly replies to user inquiries with detailed information about various waste management categories.
 
+## Commands
+Here are some of the commands you can use with the bot:
+- `!GetCategory [categoryName]`: Fetches and displays information about the specified waste management category.
+  
 
-|        Student ID          |     Student Full Name      |        SFSU Email          |
-| ---------------------------| ---------------------------| ---------------------------|
-|        921359982           |        Jeremy Tran         |    jtran43@mail.sfsu.edu   |
+## Installation
+To set up and run the bot, follow these steps. Make sure you have Node.js and npm installed.
 
+```bash
+# Clone the repository
+git clone <repository-url>
 
-A random database topic will be assigned by the instructor to all the students. As soon as it is assigned, fill out the following table with your topic´s info.
+# Navigate to the bot directory
+cd waste-management-discord-bot
 
-|       Topic Description        |              Date Assigned                 |
-| ------------------------------ | ------------------------------------------ |
-|   Waste Management Industry    |                 6/9/23                     |
+# Install dependencies
+npm install
 
-
-All the work in this course is divided into two milestones, each of them has several checkpoints. Checkpoints are cumulative work. That's it, all checkpoints 
-(but checkpoint #1) are based on the work done in previous ones. ***Note that late work won't get credit. No exceptions***
-
-
-| Checkpoints |                      Description                      |          TODO/DONE         |
-| ----------- | ----------------------------------------------------- | -------------------------- |
-|     1       | M1: Product Summary and Database Requirements         |            DONE            |
-|     2       | M1: Database Conceptual Design                        |            DONE            |
-|     3       | M1: Database Architecture                             |            DONE            |
-|     4       | M2: User Interface (Bot) Setup                        |            DONE            |
-|     5       | M2: Implementation & Testing                          |            DONE            |
-
-
-
-
-
-
-***IMPORTANT: work committed to repositories such as personal repositories won't be considered for grading. All the work done in this course must be committed to the remote repository created in class, using the link provided by the instructor. No exceptions!***
-
-
-
-
- 
-
-
+# Run the bot
+node bot.js
